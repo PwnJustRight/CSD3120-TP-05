@@ -1,6 +1,6 @@
 node_modules
 .parcel-cache
-/src/Temp
-/src/Logs
-/src/Library
-/src/UserSettings
+/Unity/Temp
+/Unity/Logs
+/Unity/Library
+/Unity/UserSettings
