@@ -92,6 +92,7 @@ The following molecules that can be created using the chalkboard are as follows:
 6. Carbon Dioxide (CO2)
 7. Methane (CH4)
 8. Acetylene (C2H2)
+9. Ethene (C2H4)
 ```
 - You can also grab the atoms and molecules using the grab action button (and throw them at the zombies)
 
@@ -162,7 +163,7 @@ DigiPen Metadigger library
 
 #### RYAN-CECIL LIM XUAN XIAN
 - Report
-- General scene population and set up
+- Population of level 1
 - Playtesting
 
 #### EE XUAN EN, ARVIN
