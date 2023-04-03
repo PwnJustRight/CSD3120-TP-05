@@ -201,7 +201,7 @@ GameObject:
   - component: {fileID: 8694474797542344138}
   - component: {fileID: 7104507169974575083}
   - component: {fileID: 6067385633903506863}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: CH4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -442,7 +442,7 @@ GameObject:
   - component: {fileID: 348122628801001352}
   - component: {fileID: 320892470902302014}
   - component: {fileID: 5309359033852013468}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Interactions.Interactable_CH4
   m_TagString: CH4
   m_Icon: {fileID: 0}
@@ -456,9 +456,9 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 9028515849065235750}
-  m_LocalRotation: {x: -0, y: 0.70710665, z: 0.7071069, w: -0.00000004371139}
-  m_LocalPosition: {x: 0.7132006, y: 1.188, z: 0.5552938}
-  m_LocalScale: {x: 0.07820002, y: 0.078200005, z: 0.078200005}
+  m_LocalRotation: {x: -0, y: -0.7069834, z: -0.7072302, w: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.042949017, y: 0.04294901, z: 0.04294901}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 504338417248491707}
@@ -466,7 +466,7 @@ Transform:
   - {fileID: 3455920684864568833}
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: -89.98, y: 0, z: -180}
 --- !u!114 &2037844268186474909
 MonoBehaviour:
   m_ObjectHideFlags: 0

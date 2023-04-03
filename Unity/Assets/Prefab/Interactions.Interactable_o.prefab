@@ -261,7 +261,7 @@ GameObject:
   - component: {fileID: 4948150918548152163}
   - component: {fileID: 2810389188562646826}
   - component: {fileID: 4351351318731000767}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: o
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -441,7 +441,7 @@ GameObject:
   - component: {fileID: 1203483108164300825}
   - component: {fileID: 1158388471901921967}
   - component: {fileID: 5956882557793559363}
-  m_Layer: 6
+  m_Layer: 10
   m_Name: Interactions.Interactable_o
   m_TagString: Oxygen
   m_Icon: {fileID: 0}

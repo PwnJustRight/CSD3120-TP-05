@@ -17,16 +17,18 @@ public class MoleculeManager : MonoBehaviour
     private const int valenceCarbon = 4;
     private const int valenceHydrogen = 1;
 
-    public static int numAtoms = 5;
+    public static int numAtoms = 7;
     public bool[] atomList = new bool[numAtoms];
     public GameObject[] atoms = new GameObject[numAtoms];
     public Molecule m;
     public TextMeshProUGUI textUI;
     public TextMeshProUGUI nameUI;
     public TextMeshProUGUI stableUI;
+    public TextMeshProUGUI toggleSpawnerGUI;
     public List<Sprite> MolSprites;
     public Image MolImage;
 
+    private bool spawnflag = true;
     public void Awake()
     {
         stableUI.text = "NIL";
@@ -69,6 +71,20 @@ public class MoleculeManager : MonoBehaviour
         UpdateMolecule();
     }
 
+    public void SnapAFive(GameObject gobj)
+    {
+        atomList[5] = true;
+        atoms[5] = gobj;
+        UpdateMolecule();
+    }
+
+    public void SnapASix(GameObject gobj)
+    {
+        atomList[6] = true;
+        atoms[6] = gobj;
+        UpdateMolecule();
+    }
+
     public void UnSnapAZero(GameObject gobj)
     {
         atomList[0] = false;
@@ -96,6 +112,18 @@ public class MoleculeManager : MonoBehaviour
     public void UnSnapAFour(GameObject gobj)
     {
         atomList[4] = false;
+        UpdateMolecule();
+    }
+
+    public void UnSnapAFive(GameObject gobj)
+    {
+        atomList[5] = false;
+        UpdateMolecule();
+    }
+
+    public void UnSnapASix(GameObject gobj)
+    {
+        atomList[6] = false;
         UpdateMolecule();
     }
 
@@ -224,7 +252,11 @@ public class MoleculeManager : MonoBehaviour
             MolImage.color = new Color(1, 1, 1, 1); //alpha
         }
         else if (valenceElectrons == 12 && numCarbon == 2 && numHydrogen == 4)
-            nameText = "Ethylene";
+        {
+            nameText = "Polyethylene";
+            MolImage.sprite = MolSprites[8];
+            MolImage.color = new Color(1, 1, 1, 1); //alpha
+        }
         else if (valenceElectrons == 12 && numOxygen == 2)
         {
             nameText = "Oxygen Gas";
@@ -253,5 +285,24 @@ public class MoleculeManager : MonoBehaviour
         }
 
         nameUI.text = nameText;
+    }
+
+    public void KillSpawners()
+    {
+        Spawner.KillAllZombies();
+    }
+
+    public void ToggleSpawners()
+    {
+        spawnflag = !spawnflag;
+        if(spawnflag)
+        {
+            toggleSpawnerGUI.color = Color.green;
+        }
+        else
+        {
+            toggleSpawnerGUI.color = Color.red;
+        }
+        Spawner.ToggleAllSpawners();
     }
 }

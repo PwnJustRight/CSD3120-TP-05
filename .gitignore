@@ -4,3 +4,14 @@ node_modules
 /Unity/Logs
 /Unity/Library
 /Unity/UserSettings
+/Unity/.plastic/plastic.changes
+/Unity/.plastic/plastic.wktree
+/Unity/VRTK.Tilia.Package.Importer.Editor.csproj
+/Unity/WebXRDef.csproj
+/Unity/Build
+/Unity/obj
+/Unity/.vsconfig
+/Unity/Assembly-CSharp.csproj
+/Unity/Unity.sln
+/Unity/.plastic
+/Unity/.vs

@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6355548172044894657
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6355548172044894659}
+  - component: {fileID: 6355548172044894656}
+  m_Layer: 0
+  m_Name: Spanwer
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6355548172044894659
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6355548172044894657}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 19.62, y: 1.87, z: 2.5854306}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6355548172044894656
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6355548172044894657}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4c9c8010c8938544bc5d373f38a37a6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  enemyPrefabs:
+  - {fileID: 100074, guid: 72f453114593d924c8de9246042c4638, type: 3}
+  moleculePrefabs:
+  - {fileID: 554186200644990836, guid: ddcff169e16f9ee43b41b449f71fdc7b, type: 3}
+  - {fileID: 7562861427934274283, guid: 9242f961a077e164abc7611011d542b8, type: 3}
+  - {fileID: 5482232293888827078, guid: 1daa14252d7bb9044a0068820a328cef, type: 3}
+  - {fileID: 3889358996863689755, guid: b5fe47a5cd1b7904db64ae53bb7051c9, type: 3}
+  - {fileID: 2867425365548330681, guid: 44a5d5baebba79346ae38c42352fc6a7, type: 3}
+  - {fileID: 1636270324386944620, guid: 3dffb1d25c9002b42bf3afabfe7a7b9e, type: 3}
+  - {fileID: 7766635426534877657, guid: 46c5e680368295648b4ef722fb475cb2, type: 3}
+  - {fileID: 1654735180506176485, guid: 69d1871e714d743438e58e2a2727c66c, type: 3}
+  molecules:
+  - H2
+  - O2
+  - H2O
+  - H2O2
+  - C2H2
+  - CO
+  - CH4
+  - CO2
+  chokePointTarget: {fileID: 0}
+  killThreshold: 10
+  currentLimit: 1
+  maxLimit: 8
+  spawnTime: 6
+  resize: 0.4
+  limitMultiplier: 1.8

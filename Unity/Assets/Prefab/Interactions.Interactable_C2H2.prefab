@@ -95,7 +95,7 @@ GameObject:
   - component: {fileID: 5696517449551318546}
   - component: {fileID: 5741761730537446564}
   - component: {fileID: 5981906874123313783}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Interactions.Interactable_C2H2
   m_TagString: C2H2
   m_Icon: {fileID: 0}
@@ -109,9 +109,9 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3932034500084890812}
-  m_LocalRotation: {x: -0.5, y: -0.5, z: 0.5, w: 0.50000006}
-  m_LocalPosition: {x: 0.46899962, y: 0.671, z: 0.403}
-  m_LocalScale: {x: 0.030000005, y: 0.030000007, z: 0.10500001}
+  m_LocalRotation: {x: -0.5, y: -0.5, z: 0.5, w: 0.5}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.016050885, y: 0.016050886, z: 0.056178093}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 5558878734109024545}
@@ -119,7 +119,7 @@ Transform:
   - {fileID: 685873197047346869}
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: -90, z: 90}
 --- !u!114 &6313271862360367111
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -465,7 +465,7 @@ GameObject:
   - component: {fileID: 4364118306586679263}
   - component: {fileID: 4730854800805194245}
   - component: {fileID: 191094299383724855}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: C2H2
   m_TagString: Untagged
   m_Icon: {fileID: 0}

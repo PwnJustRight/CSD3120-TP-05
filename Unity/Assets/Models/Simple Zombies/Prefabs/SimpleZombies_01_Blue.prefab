@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 400000}
   - component: {fileID: 3300000}
   - component: {fileID: 2300000}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Foot_Right
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -94,7 +94,7 @@ GameObject:
   - component: {fileID: 400002}
   - component: {fileID: 3300002}
   - component: {fileID: 2300002}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Hat_Cap_Backwards
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -178,9 +178,9 @@ GameObject:
   - component: {fileID: 54536758033057200}
   - component: {fileID: 65850439129542728}
   - component: {fileID: 144162385454944706}
-  m_Layer: 9
+  m_Layer: 11
   m_Name: UpperArm_Right_jnt
-  m_TagString: Enemy
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -288,7 +288,7 @@ GameObject:
   - component: {fileID: 400006}
   - component: {fileID: 3300004}
   - component: {fileID: 2300004}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Prop_Backpack
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -369,7 +369,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 400008}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Hand_Right_jnt
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -403,7 +403,7 @@ GameObject:
   - component: {fileID: 400010}
   - component: {fileID: 3300006}
   - component: {fileID: 2300006}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Hat_Cap
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -487,9 +487,9 @@ GameObject:
   - component: {fileID: 54834053336360058}
   - component: {fileID: 65062021769247122}
   - component: {fileID: 144953924672397148}
-  m_Layer: 9
+  m_Layer: 11
   m_Name: LowerArm_Right_jnt
-  m_TagString: Enemy
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -597,7 +597,7 @@ GameObject:
   - component: {fileID: 400014}
   - component: {fileID: 3300008}
   - component: {fileID: 2300008}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: LowerLeg_Right
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -680,7 +680,7 @@ GameObject:
   - component: {fileID: 400016}
   - component: {fileID: 3300010}
   - component: {fileID: 2300010}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: UpperArm_Right
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -761,7 +761,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 400018}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Hand_Left_jnt
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -796,9 +796,9 @@ GameObject:
   - component: {fileID: 54898261546605968}
   - component: {fileID: 65412845451181982}
   - component: {fileID: 144792406074931326}
-  m_Layer: 9
+  m_Layer: 11
   m_Name: UpperLeg_Left_jnt
-  m_TagString: Enemy
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -904,7 +904,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 400022}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Hat_jnt
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -952,7 +952,7 @@ GameObject:
   - component: {fileID: 400024}
   - component: {fileID: 3300012}
   - component: {fileID: 2300012}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Hair_Bobs
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1035,7 +1035,7 @@ GameObject:
   - component: {fileID: 400026}
   - component: {fileID: 3300014}
   - component: {fileID: 2300014}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Prop_FireFighterPack
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1118,7 +1118,7 @@ GameObject:
   - component: {fileID: 400028}
   - component: {fileID: 3300016}
   - component: {fileID: 2300016}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Hair_Top
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1201,7 +1201,7 @@ GameObject:
   - component: {fileID: 400030}
   - component: {fileID: 3300018}
   - component: {fileID: 2300018}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Hair_Punk
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1284,7 +1284,7 @@ GameObject:
   - component: {fileID: 400032}
   - component: {fileID: 3300020}
   - component: {fileID: 2300020}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Hair_Ponytail
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1365,7 +1365,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 400034}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Foot_Left_jnt1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1398,7 +1398,7 @@ GameObject:
   - component: {fileID: 400036}
   - component: {fileID: 3300022}
   - component: {fileID: 2300022}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: UpperLeg_Right
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1481,7 +1481,7 @@ GameObject:
   - component: {fileID: 400038}
   - component: {fileID: 3300024}
   - component: {fileID: 2300024}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: UpperArm_Left
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1562,7 +1562,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 400040}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Foot_Right_jnt1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1596,9 +1596,9 @@ GameObject:
   - component: {fileID: 54412351532350394}
   - component: {fileID: 65282411854095694}
   - component: {fileID: 144682690027617648}
-  m_Layer: 9
+  m_Layer: 11
   m_Name: UpperLeg_Right_jnt
-  m_TagString: Enemy
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1706,7 +1706,7 @@ GameObject:
   - component: {fileID: 400044}
   - component: {fileID: 3300026}
   - component: {fileID: 2300026}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Hat_Hobo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1789,7 +1789,7 @@ GameObject:
   - component: {fileID: 400046}
   - component: {fileID: 3300028}
   - component: {fileID: 2300028}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: UpperLeg_Left
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1872,7 +1872,7 @@ GameObject:
   - component: {fileID: 400048}
   - component: {fileID: 3300030}
   - component: {fileID: 2300030}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: LowerArm_Right
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1955,7 +1955,7 @@ GameObject:
   - component: {fileID: 400050}
   - component: {fileID: 3300032}
   - component: {fileID: 2300032}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Hat_Police
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2038,7 +2038,7 @@ GameObject:
   - component: {fileID: 400052}
   - component: {fileID: 3300034}
   - component: {fileID: 2300034}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Foot_Left
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2119,7 +2119,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 400054}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Foot_Left_jnt
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2152,7 +2152,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 400056}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Hips_jnt
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2189,7 +2189,7 @@ GameObject:
   - component: {fileID: 400058}
   - component: {fileID: 3300036}
   - component: {fileID: 2300036}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Hand_Right
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2273,9 +2273,9 @@ GameObject:
   - component: {fileID: 54930049009018174}
   - component: {fileID: 65543471116425450}
   - component: {fileID: 144676055505019214}
-  m_Layer: 9
+  m_Layer: 11
   m_Name: LowerLeg_Right_jnt
-  m_TagString: Enemy
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2384,9 +2384,9 @@ GameObject:
   - component: {fileID: 54738909687006812}
   - component: {fileID: 65896778049239346}
   - component: {fileID: 144938441022699868}
-  m_Layer: 9
+  m_Layer: 11
   m_Name: Head_jnt
-  m_TagString: Enemy
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2494,7 +2494,7 @@ GameObject:
   - component: {fileID: 400064}
   - component: {fileID: 3300038}
   - component: {fileID: 2300038}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Hand_Left
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2578,9 +2578,9 @@ GameObject:
   - component: {fileID: 54670381853288236}
   - component: {fileID: 65689479275604302}
   - component: {fileID: 144769726691357678}
-  m_Layer: 9
+  m_Layer: 11
   m_Name: UpperArm_Left_jnt
-  m_TagString: Enemy
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2688,7 +2688,7 @@ GameObject:
   - component: {fileID: 400068}
   - component: {fileID: 3300040}
   - component: {fileID: 2300040}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: WarHelmet
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2771,7 +2771,7 @@ GameObject:
   - component: {fileID: 400070}
   - component: {fileID: 3300042}
   - component: {fileID: 2300042}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Hat_Pimp
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2854,7 +2854,7 @@ GameObject:
   - component: {fileID: 400072}
   - component: {fileID: 54453108106679576}
   - component: {fileID: 65639683155951730}
-  m_Layer: 9
+  m_Layer: 11
   m_Name: Body_jnt
   m_TagString: Enemy
   m_Icon: {fileID: 0}
@@ -2922,7 +2922,8 @@ GameObject:
   - component: {fileID: 195460556919497718}
   - component: {fileID: 136257465049933014}
   - component: {fileID: 82629411057110380}
-  m_Layer: 2
+  - component: {fileID: -2099109654908853819}
+  m_Layer: 0
   m_Name: SimpleZombies_01_Blue
   m_TagString: Enemy
   m_Icon: {fileID: 0}
@@ -2974,7 +2975,7 @@ NavMeshAgent:
   m_GameObject: {fileID: 100074}
   m_Enabled: 1
   m_AgentTypeID: 0
-  m_Radius: 1
+  m_Radius: 0.4
   m_Speed: 0.5
   m_Acceleration: 8
   avoidancePriority: 50
@@ -2983,7 +2984,7 @@ NavMeshAgent:
   m_AutoTraverseOffMeshLink: 1
   m_AutoBraking: 1
   m_AutoRepath: 1
-  m_Height: 2
+  m_Height: 1.38
   m_BaseOffset: 0
   m_WalkableMask: 4294967295
   m_ObstacleAvoidanceType: 4
@@ -2995,7 +2996,7 @@ CapsuleCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 100074}
   m_Material: {fileID: 0}
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_Enabled: 1
   m_Radius: 0.75
   m_Height: 3
@@ -3097,6 +3098,29 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 0
+--- !u!114 &-2099109654908853819
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 100074}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d49e971907626cb4c879345b8d600693, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Target: {fileID: 0}
+  RotationSpeed: 1
+  MovementSpeed: 1
+  IdleTime: 0
+  ChaseTime: 10
+  DespawnTime: 5
+  Damage: 5
+  AttackCD: 1
+  moleculePosition: {x: 0, y: 3.2, z: 0.1}
+  moleculeName: 
+  currAttackTime: 0
 --- !u!1 &100076
 GameObject:
   m_ObjectHideFlags: 0
@@ -3109,9 +3133,9 @@ GameObject:
   - component: {fileID: 54761941595169844}
   - component: {fileID: 65813416929370542}
   - component: {fileID: 144789897945987642}
-  m_Layer: 9
+  m_Layer: 11
   m_Name: LowerLeg_Left_jnt
-  m_TagString: Enemy
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3219,7 +3243,7 @@ GameObject:
   - component: {fileID: 400078}
   - component: {fileID: 3300044}
   - component: {fileID: 2300044}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Hat_FireFighter
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3302,7 +3326,7 @@ GameObject:
   - component: {fileID: 400080}
   - component: {fileID: 3300046}
   - component: {fileID: 2300046}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: RiotHelmet
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3386,9 +3410,10 @@ GameObject:
   - component: {fileID: 54944852058613772}
   - component: {fileID: 65358005843760242}
   - component: {fileID: 144322567656605402}
-  m_Layer: 9
+  - component: {fileID: 3204205034924200626}
+  m_Layer: 11
   m_Name: Spine_jnt
-  m_TagString: Enemy
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3486,6 +3511,19 @@ CharacterJoint:
   m_EnablePreprocessing: 0
   m_MassScale: 1
   m_ConnectedMassScale: 1
+--- !u!114 &3204205034924200626
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 100082}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0f467260096d764fb7962e276066b38, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  zs: {fileID: -2099109654908853819}
 --- !u!1 &100084
 GameObject:
   m_ObjectHideFlags: 0
@@ -3497,7 +3535,7 @@ GameObject:
   - component: {fileID: 400084}
   - component: {fileID: 3300048}
   - component: {fileID: 2300048}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Head
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3580,7 +3618,7 @@ GameObject:
   - component: {fileID: 400086}
   - component: {fileID: 3300050}
   - component: {fileID: 2300050}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: LowerArm_Left
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3663,7 +3701,7 @@ GameObject:
   - component: {fileID: 400088}
   - component: {fileID: 3300052}
   - component: {fileID: 2300052}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Body
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3744,7 +3782,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 400090}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Root_jnt
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3778,7 +3816,7 @@ GameObject:
   - component: {fileID: 400092}
   - component: {fileID: 3300054}
   - component: {fileID: 2300054}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: GasMask
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3861,7 +3899,7 @@ GameObject:
   - component: {fileID: 400094}
   - component: {fileID: 3300056}
   - component: {fileID: 2300056}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: LowerBody
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3944,7 +3982,7 @@ GameObject:
   - component: {fileID: 400096}
   - component: {fileID: 3300058}
   - component: {fileID: 2300058}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Hat_Sheriff
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4025,7 +4063,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 400098}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Foot_Right_jnt
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4060,7 +4098,7 @@ GameObject:
   - component: {fileID: 400100}
   - component: {fileID: 3300060}
   - component: {fileID: 2300060}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Hat_Helmet
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4143,7 +4181,7 @@ GameObject:
   - component: {fileID: 400102}
   - component: {fileID: 3300062}
   - component: {fileID: 2300062}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: LowerLeg_Left
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4227,9 +4265,9 @@ GameObject:
   - component: {fileID: 54146450646612204}
   - component: {fileID: 65451263785131138}
   - component: {fileID: 144098045257393762}
-  m_Layer: 9
+  m_Layer: 11
   m_Name: LowerArm_Left_jnt
-  m_TagString: Enemy
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

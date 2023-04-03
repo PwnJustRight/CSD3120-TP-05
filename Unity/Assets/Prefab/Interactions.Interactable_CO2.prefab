@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 2745981051912288247}
   - component: {fileID: 4755861126813162645}
   - component: {fileID: 6018397983143412232}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: CO2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -362,7 +362,7 @@ GameObject:
   - component: {fileID: 2778270024390831513}
   - component: {fileID: 2751321626546126639}
   - component: {fileID: 3305706896355748934}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Interactions.Interactable_CO2
   m_TagString: CO2
   m_Icon: {fileID: 0}
@@ -376,9 +376,9 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6850284158646722359}
-  m_LocalRotation: {x: -0, y: 0.70710665, z: 0.7071069, w: -0.00000004371139}
-  m_LocalPosition: {x: 0.692, y: 0.836, z: 0.40646547}
-  m_LocalScale: {x: 0.07820002, y: 0.078200005, z: 0.078200005}
+  m_LocalRotation: {x: -0, y: -0.7069834, z: -0.7072302, w: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.033910614, y: 0.033910602, z: 0.033910602}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 2640630487000203946}
@@ -386,7 +386,7 @@ Transform:
   - {fileID: 7437329480435967104}
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: -89.98, y: 0, z: -180}
 --- !u!114 &4475807139327705996
 MonoBehaviour:
   m_ObjectHideFlags: 0

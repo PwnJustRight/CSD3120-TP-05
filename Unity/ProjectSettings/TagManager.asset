@@ -16,22 +16,29 @@ TagManager:
   - CO
   - CH4
   - CO2
+  - H
+  - O
+  - C
+  - Weapon
+  - C2H4
+  - Enemy
+  - ChokePoint
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Ground
   - Water
   - UI
   - Molecule
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Weapon
+  - Weapon_Snapzone
+  - Whiteboard_Snapzone
+  - Atom
+  - Player
+  - NoCollideWithPlayer
+  - Bullet
+  - Enemy
   - 
   - 
   - 
