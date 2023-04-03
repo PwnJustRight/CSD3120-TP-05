@@ -24,9 +24,9 @@ This is a school project developed by students under CSD3120, DigiPen Singapore'
 
 You are a scientist struggling to survive in a post apocalyptic world. Chemical zombies are being sent your way! Fortunately, you know the secret to repelling the zombies:
 
-They react negatively to certain atoms and molecules!
+They react negatively to certain molecules!
 
-Craft the right atoms and molecules at your special work desk. Load the atoms or molecules onto your augmented gun and fire them at the zombies!
+Craft the right molecules at your special work desk. Load the molecules onto your augmented gun and fire them at the zombies!
 
 Survive for as long as possible, whilst learning about atoms and molecule creation!
 
@@ -55,31 +55,31 @@ Alternatively, connect your Quest 2 to your computer or laptop and play it on th
 ## How to play
 
 **Goal of the game**
-- Learn to create real life molecules using a combination of Hydrogen, Oxygen and Carbon atoms
-- Use the gun tp fire atoms and molecules at the zombies
+- Learn to create real life molecules using a combination of Hydrogen, Oxygen and Carbon atoms.
+- Use the gun to fire the combined molecules at the zombies.
 
 **Creating the atoms**
-- Use the **grab action button** on the "H", "C", "O" buttons on the chalkboard to create the Hydrogen, Carbon and Oxygen atoms respectively
+- Use the **grab action button** on the "H", "C", "O" buttons on the chalkboard to create the Hydrogen, Carbon and Oxygen atoms respectively.
 
 **Creating the molecules**
-- Bring an atom toward the circular indicators on the chalkboard to prime them for combining
-- Use the **grab action button** on the "Create" button on the chalkboard to create the corresponding molecule from the combination of atoms
+- Bring an atom toward the circular indicators on the chalkboard to prime them for combining.
+- Use the **grab action button** on the "Create" button on the chalkboard to create the corresponding molecule from the combination of atoms.
 
 **Other chalkboard interactions**
 - "Change scene" button progresses the game to a different, more difficult scene with more zombies.
 
 **Gun interactions**
-- Use the grab action button when hovering over the gun to snap the gun into your hand
-- Aim the gun by moving your controller around
-- Use the **right trigger button** to fire the gun
-- You can only have 1 atom or molecule loaded at a time
+- Use the grab action button when hovering over the gun to snap the gun into your hand.
+- Aim the gun by moving your controller around. Orientating of the gun barrel can also be done by grabbing the front of the gun with second controller.
+- Use the **right trigger button** to fire the gun.
+- You can only have 1 molecule type loaded at a time, but it can be replaced by inserting another molecule into the gun.
 
 **Loading the gun**
-- Grab an atom or molecule and bring it to the gun's lower barrel area, indicated with a highlighted zone. This will automatically load the gun with the atom or molecule
+- Grab a molecule and bring it to the gun's lower barrel area, indicated with a highlighted zone. This will automatically load the gun with the molecule.
 
 **Zombie interactions**
-- Molecules destroy zombies on contact if they are weak to it
-- Zombies will have an indication above their heads for what they are weak towards
+- Molecules destroy zombies on contact if they are weak to it.
+- Zombies will have an indication above their heads for what they are weak towards.
 
 **Molecule interactions**
 The following molecules that can be created using the chalkboard are as follows:
@@ -94,23 +94,23 @@ The following molecules that can be created using the chalkboard are as follows:
 8. Acetylene (C2H2)
 9. Ethene (C2H4)
 ```
-- You can also grab the atoms and molecules using the grab action button (and throw them at the zombies)
+- You can also grab the atoms and molecules using the grab action button (and throw them at the zombies).
 
 **Barricades**
-- These barricades get destroyed over time as the zombies hack away at them
-- Firing or throwing a C2H4 molecule (a molecule used in creating plastic) at a barricade repairs it
+- These barricades get destroyed over time as the zombies hack away at them.
+- Firing or throwing a C2H4 molecule (a molecule used in creating plastic) at a barricade repairs it.
 
 ## Locomotion method of choice
 
-- Walk around the scene by pushing the left thumbstick in different directions
+- Walk around the scene by pushing the left thumbstick in different directions.
 - You can also teleport by: 
-	1. Holding down the right thumbstick
-	2. Aiming at a location
-	3. Then releasing it to teleport to the target location
+	1. Holding down the right thumbstick.
+	2. Aiming at a location.
+	3. Then releasing it to teleport to the target location.
 
 ## Scripts created for the game
 
-All scripts we've developed for this game are included in ```../Assets/Scripts```
+All scripts we've developed for this game are included in ```../Assets/Scripts```.
 
 These scripts exclude those imported from VRTK and other packages.
 
@@ -133,8 +133,8 @@ DigiPen Metadigger library
 
 ## Future plans
 
-- Currently you will not die, or lose in the game
-- Health bar UI that follows player view
+- Currently you will not die, or lose in the game.
+- Health bar UI that follows player view.
 
 ## Contributions from each member
 
