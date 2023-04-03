@@ -44,11 +44,11 @@ A Quest 2 can also be used to play the game in the web browser. (TODO: double ch
 
 Press F12 to access dev tools and navigate to **WebXR** on the top bar
 
-![WebXR navigation](readme_assets/images/webxr_navi_tut.png=250x250)
+![WebXR navigation](readme_assets/images/webxr_navi_tut.png)
 
 Press the VR button and you're ready to play!
 
-![VR button](readme_assets/images/vr_button_tut.png=250x250)
+![VR button](readme_assets/images/vr_button_tut.png)
 
 Alternatively, connect your Quest 2 to your computer or laptop and play it on the browser! (TODO: again, double check testing for this)
 
@@ -64,6 +64,9 @@ Alternatively, connect your Quest 2 to your computer or laptop and play it on th
 **Creating the molecules**
 - Bring an atom toward the circular indicators on the chalkboard to prime them for combining
 - Use the **grab action button** on the "Create" button on the chalkboard to create the corresponding molecule from the combination of atoms
+
+**Other chalkboard interactions**
+- "Change scene" button progresses the game to a different, more difficult scene with more zombies.
 
 **Gun interactions**
 - Use the grab action button when hovering over the gun to snap the gun into your hand
@@ -81,17 +84,20 @@ Alternatively, connect your Quest 2 to your computer or laptop and play it on th
 **Molecule interactions**
 The following molecules that can be created using the chalkboard are as follows:
 ```
-1. Hydrogen Gas 		(H2)
-2. Oxygen Gas 			(O2)
-3. Water 				(H2O) 
-4. Hydrogen Peroxide 	(H2O2)
-5. Carbon Monoxide 		(CO)
-6. Carbon Dioxide 		(CO2)
-7. Methane 				(CH4)
-8. Acetylene 			(C2H2)
+1. Hydrogen Gas (H2)
+2. Oxygen Gas (O2)
+3. Water (H2O) 
+4. Hydrogen Peroxide (H2O2)
+5. Carbon Monoxide (CO)
+6. Carbon Dioxide (CO2)
+7. Methane (CH4)
+8. Acetylene (C2H2)
 ```
-- Additionally, firing or throwing a C2H4 molecule (a molecule used in creating plastic) at a barricade repairs it
 - You can also grab the atoms and molecules using the grab action button (and throw them at the zombies)
+
+**Barricades**
+- These barricades get destroyed over time as the zombies hack away at them
+- Firing or throwing a C2H4 molecule (a molecule used in creating plastic) at a barricade repairs it
 
 ## Locomotion method of choice
 
@@ -111,26 +117,55 @@ These scripts exclude those imported from VRTK and other packages.
 ## Assets accreditation
 
 **Overall scene decorations:**
-
 https://assetstore.unity.com/packages/3d/environments/low-poly-survival-modular-kit-vr-and-mobile-128903
 
 **Zombie model:**
-
 https://assetstore.unity.com/packages/3d/characters/humanoids/simple-zombies-cartoon-characters-27935
 
 **Gun model:**
-
 https://assetstore.unity.com/packages/3d/characters/simple-military-cartoon-war-34497
 
 **Atoms and molecule models:**
-
 TODO: ??? Where these molecule models from ???
 
 **Sounds:**
-
 DigiPen Metadigger library
 
 ## Future plans
 
 - Currently you will not die, or lose in the game
 - Health bar UI that follows player view
+
+## Contributions from each member
+
+#### PEH SHI HAO
+- Gun interaction and logic
+- Playtesting
+
+#### BORIS YEN FU SHENG
+- Report
+- Readme file
+- Playtesting
+
+#### SEE YONG LI
+- Report
+- Population of level 2
+- Barricade interactions and logic
+
+#### PHANG JIA RONG
+- Chalkboard interactions and logic
+- Atom and molecule interactions and logic
+
+#### OW XIN RUI
+- Video demo
+- Playtesting
+
+#### RYAN-CECIL LIM XUAN XIAN
+- Report
+- General scene population and set up
+- Playtesting
+
+#### EE XUAN EN, ARVIN
+- Report
+- Zombie interactions and logic
+- Zombie spawners
