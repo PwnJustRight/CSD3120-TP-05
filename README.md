@@ -15,20 +15,20 @@ We present to you..
 # ZombieChemChem
 
 **About the game**
+
 A survival zombie game made for WebXR in Unity, using VRTK4 and Unity store assets.
 
 This is a school project developed by students under CSD3120, DigiPen Singapore's Introduction to Virtual Reality module.
 
-**Game summary**
-You are a scientist struggling to survive in a post apocalyptic world. Chemical zombies are being sent your way! Fortunately, you know the secret to repelling the zombies.
+**Story**
 
-You've realized these zombies react negatively to certain atoms and molecules!
+You are a scientist struggling to survive in a post apocalyptic world. Chemical zombies are being sent your way! Fortunately, you know the secret to repelling the zombies:
 
-Craft the right atoms and molecules at your special work desk. Load the atoms or molecules onto your augmented gun to fire them at the zombies!
+They react negatively to certain atoms and molecules!
 
-*Alternatively*, you can lob the atoms and molecules by grabbing and throwing as well.
+Craft the right atoms and molecules at your special work desk. Load the atoms or molecules onto your augmented gun and fire them at the zombies!
 
-Survive for as long as possible, whilst learning about atoms and molecule combinations!
+Survive for as long as possible, whilst learning about atoms and molecule creation!
 
 ## Link to the game
 
@@ -42,26 +42,28 @@ A Quest 2 can also be used to play the game in the web browser. (TODO: double ch
 
 ### Instructions to play on the Edge web browser
 
-**Press F12 to access dev tools** and navigate to **WebXR** on the top bar
-![WebXR navigation](/assets/images/webxr_navi_tut.png=250x250)
+Press F12 to access dev tools and navigate to **WebXR** on the top bar
 
-Press the **VR** button and you're ready to play!
-![VR button](/assets/images/vr_button_tut.png=250x250)
+![WebXR navigation](readme_assets/images/webxr_navi_tut.png=250x250)
 
-Alternatively, connect your Oculus Quest 2 to your computer or laptop and play it on the browser! (TODO: again, double check testing for this)
+Press the VR button and you're ready to play!
+
+![VR button](readme_assets/images/vr_button_tut.png=250x250)
+
+Alternatively, connect your Quest 2 to your computer or laptop and play it on the browser! (TODO: again, double check testing for this)
 
 ## How to play
 
 **Goal of the game**
-- Use the gun and fire atoms or molecules at the zombies
 - Learn to create real life molecules using a combination of Hydrogen, Oxygen and Carbon atoms
+- Use the gun tp fire atoms and molecules at the zombies
 
 **Creating the atoms**
-- Use the **grab action button** on the **H, C, O** buttons on the chalkboard to create the Hydrogen, Carbon and Oxygen atoms respectively
+- Use the **grab action button** on the "H", "C", "O" buttons on the chalkboard to create the Hydrogen, Carbon and Oxygen atoms respectively
 
 **Creating the molecules**
 - Bring an atom toward the circular indicators on the chalkboard to prime them for combining
-- Use the **grab action button** on the **Create** button on the chalkboard to create the corresponding molecule from the combination of atoms
+- Use the **grab action button** on the "Create" button on the chalkboard to create the corresponding molecule from the combination of atoms
 
 **Gun interactions**
 - Use the grab action button when hovering over the gun to snap the gun into your hand
@@ -72,10 +74,11 @@ Alternatively, connect your Oculus Quest 2 to your computer or laptop and play i
 **Loading the gun**
 - Grab an atom or molecule and bring it to the gun's lower barrel area, indicated with a highlighted zone. This will automatically load the gun with the atom or molecule
 
-**Molecule interactions**
+**Zombie interactions**
 - Molecules destroy zombies on contact if they are weak to it
 - Zombies will have an indication above their heads for what they are weak towards
 
+**Molecule interactions**
 The following molecules that can be created using the chalkboard are as follows:
 ```
 1. Hydrogen Gas 		(H2)
@@ -88,10 +91,11 @@ The following molecules that can be created using the chalkboard are as follows:
 8. Acetylene 			(C2H2)
 ```
 - Additionally, firing or throwing a C2H4 molecule (a molecule used in creating plastic) at a barricade repairs it
+- You can also grab the atoms and molecules using the grab action button (and throw them at the zombies)
 
 ## Locomotion method of choice
 
-- Move around by pushing the left thumbstick in different directions
+- Walk around the scene by pushing the left thumbstick in different directions
 - You can also teleport by: 
 	1. Holding down the right thumbstick
 	2. Aiming at a location
@@ -99,7 +103,7 @@ The following molecules that can be created using the chalkboard are as follows:
 
 ## Scripts created for the game
 
-All scripts we've developed for this game are included in```../Assets/Scripts. ```
+All scripts we've developed for this game are included in ```../Assets/Scripts```
 
 These scripts exclude those imported from VRTK and other packages.
 - TODO: Remember to do headers and comments for your code.
@@ -107,18 +111,23 @@ These scripts exclude those imported from VRTK and other packages.
 ## Assets accreditation
 
 **Overall scene decorations:**
+
 https://assetstore.unity.com/packages/3d/environments/low-poly-survival-modular-kit-vr-and-mobile-128903
 
 **Zombie model:**
+
 https://assetstore.unity.com/packages/3d/characters/humanoids/simple-zombies-cartoon-characters-27935
 
 **Gun model:**
+
 https://assetstore.unity.com/packages/3d/characters/simple-military-cartoon-war-34497
 
 **Atoms and molecule models:**
+
 TODO: ??? Where these molecule models from ???
 
 **Sounds:**
+
 DigiPen Metadigger library
 
 ## Future plans
