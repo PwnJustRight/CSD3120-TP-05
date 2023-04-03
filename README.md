@@ -112,7 +112,6 @@ The following molecules that can be created using the chalkboard are as follows:
 All scripts we've developed for this game are included in ```../Assets/Scripts```
 
 These scripts exclude those imported from VRTK and other packages.
-- TODO: Remember to do headers and comments for your code.
 
 ## Assets accreditation
 
@@ -126,7 +125,7 @@ https://assetstore.unity.com/packages/3d/characters/humanoids/simple-zombies-car
 https://assetstore.unity.com/packages/3d/characters/simple-military-cartoon-war-34497
 
 **Atoms and molecule models:**
-TODO: ??? Where these molecule models from ???
+Courtesy of an **open source project**: XRAuthor
 
 **Sounds:**
 DigiPen Metadigger library
