@@ -28,7 +28,7 @@ They react negatively to certain molecules!
 
 Craft the right molecules at your special work desk. Load the molecules onto your augmented gun and fire them at the zombies!
 
-Survive for as long as possible, whilst learning about atoms and molecule creation!
+Kill zombies and learn about atoms and molecule creation! #ChemistryWithZombies
 
 ## Link to the game
 
@@ -166,6 +166,6 @@ DigiPen Metadigger library
 - Playtesting
 
 #### EE XUAN EN, ARVIN
-- Report
+- Playtesting
 - Zombie interactions and logic
 - Zombie spawners
