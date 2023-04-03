@@ -57,6 +57,12 @@ Press the VR button and you're ready to play!
 
 Alternatively, connect your Quest 2 to your computer or laptop and play it on the browser!
 
+## Known issues
+
+Currently, the WebXR export has an issue with openGL rendering where parts of the environment are not rendered. We have tested and checked that the items are still there to interact with. All interactables are still in the scene and working, just not appearing. If this happens for you please contact us for a .exe export of our game. The game is otherwise working fine for us on Unity.
+
+You may also refer to the video demo link above to get an idea of our game.
+
 ## How to play
 
 **Goal of the game**
