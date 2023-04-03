@@ -264,7 +264,7 @@ GameObject:
   - component: {fileID: 4434576283390087019}
   - component: {fileID: 4407346237697252829}
   - component: {fileID: 8709708047067507344}
-  m_Layer: 6
+  m_Layer: 10
   m_Name: Interactions.Interactable_c
   m_TagString: Carbon
   m_Icon: {fileID: 0}
@@ -445,7 +445,7 @@ GameObject:
   - component: {fileID: 5767395273010083910}
   - component: {fileID: 5767395273010083911}
   - component: {fileID: 5767395273010083908}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: c
   m_TagString: Untagged
   m_Icon: {fileID: 0}

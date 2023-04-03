@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 7627423593469648939}
   - component: {fileID: 7600599490394780317}
   - component: {fileID: -7344346596955807581}
-  m_Layer: 6
+  m_Layer: 10
   m_Name: Interactions.Interactable_h
   m_TagString: Hydrogen
   m_Icon: {fileID: 0}
@@ -276,7 +276,7 @@ GameObject:
   - component: {fileID: 4148179820945449125}
   - component: {fileID: 7048996797270510304}
   - component: {fileID: 198780449589848986}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: h
   m_TagString: Untagged
   m_Icon: {fileID: 0}

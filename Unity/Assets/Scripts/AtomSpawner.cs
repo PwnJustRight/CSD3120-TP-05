@@ -35,6 +35,7 @@ public class AtomSpawner : MonoBehaviour
 
         foreach (GameObject objectToDestroy in objectsToDestroy)
         {
+            objectToDestroy.SetActive(false);
             Destroy(objectToDestroy);
         }
 
@@ -42,6 +43,7 @@ public class AtomSpawner : MonoBehaviour
 
         foreach (GameObject objectToDestroy in objectsToDestroy)
         {
+            objectToDestroy.SetActive(false);
             Destroy(objectToDestroy);
         }
 
@@ -49,6 +51,7 @@ public class AtomSpawner : MonoBehaviour
         
         foreach (GameObject objectToDestroy in objectsToDestroy)
         {
+            objectToDestroy.SetActive(false);
             Destroy(objectToDestroy);
         }
     }

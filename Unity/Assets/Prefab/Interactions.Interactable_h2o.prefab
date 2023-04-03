@@ -109,9 +109,9 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3614727869538033368}
-  m_LocalRotation: {x: -0.70710677, y: -0, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 0.86026216, y: 0.5948, z: 0.492}
-  m_LocalScale: {x: 0.2, y: 0.2, z: 0.2}
+  m_LocalRotation: {x: -0.7071068, y: 0, z: 0, w: 0.7071068}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.120222114, y: 0.120222114, z: 0.120222114}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 5304793488245490501}
@@ -119,7 +119,7 @@ Transform:
   - {fileID: 1167657255562319404}
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!114 &5991560040624046691
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -465,7 +465,7 @@ GameObject:
   - component: {fileID: 2224146441050877164}
   - component: {fileID: 8133961780117520659}
   - component: {fileID: 4813671594326850123}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: h2o
   m_TagString: Untagged
   m_Icon: {fileID: 0}

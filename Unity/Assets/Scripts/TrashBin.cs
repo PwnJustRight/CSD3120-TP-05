@@ -16,7 +16,8 @@ public class TrashBin : MonoBehaviour
             || other.gameObject.tag == "CO"
             || other.gameObject.tag == "H2O2"
             || other.gameObject.tag == "C2H2"
-            || other.gameObject.tag == "CO2")
+            || other.gameObject.tag == "CO2"
+            || other.gameObject.tag == "C2H4")
         {
             Destroy(other.gameObject);
         }
