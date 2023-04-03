@@ -32,13 +32,14 @@ Kill zombies and learn about atoms and molecule creation! #ChemistryWithZombies
 
 ## Link to the game
 
->INSERT LINK HERE TO WHOEVER HOSTING THE SITE
+Open this link in the Edge browser:
+>https://pwnjustright.github.io/CSD3120-TP-05/
 
 ## Prerequisites to play
 
 You would need the Edge web browser with the [**Immersive Web Emulator Plugin**](https://microsoftedge.microsoft.com/addons/detail/immersive-web-emulator/hhlkbhldhffpeibcfggfndbkfohndamj). 
 
-A Quest 2 can also be used to play the game in the web browser. (TODO: double check testing for this)
+A Quest 2 can also be used to play the game in the web browser.
 
 ### Instructions to play on the Edge web browser
 
@@ -50,7 +51,7 @@ Press the VR button and you're ready to play!
 
 ![VR button](readme_assets/images/vr_button_tut.png)
 
-Alternatively, connect your Quest 2 to your computer or laptop and play it on the browser! (TODO: again, double check testing for this)
+Alternatively, connect your Quest 2 to your computer or laptop and play it on the browser!
 
 ## How to play
 
