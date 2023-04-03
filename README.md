@@ -35,6 +35,10 @@ Kill zombies and learn about atoms and molecule creation! #ChemistryWithZombies
 Open this link in the Edge browser:
 >https://pwnjustright.github.io/CSD3120-TP-05/
 
+## Link to a video demo
+
+>https://youtu.be/Xc-QV8SVZdE
+
 ## Prerequisites to play
 
 You would need the Edge web browser with the [**Immersive Web Emulator Plugin**](https://microsoftedge.microsoft.com/addons/detail/immersive-web-emulator/hhlkbhldhffpeibcfggfndbkfohndamj). 
@@ -170,3 +174,5 @@ DigiPen Metadigger library
 - Playtesting
 - Zombie interactions and logic
 - Zombie spawners
+
+#### Source control was handled using Plastic SCM
