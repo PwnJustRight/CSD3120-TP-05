@@ -32,13 +32,18 @@ Kill zombies and learn about atoms and molecule creation! #ChemistryWithZombies
 
 ## Link to the game
 
->INSERT LINK HERE TO WHOEVER HOSTING THE SITE
+Open this link in the Edge browser:
+>https://pwnjustright.github.io/CSD3120-TP-05/
+
+## Link to a video demo
+
+>https://youtu.be/Xc-QV8SVZdE
 
 ## Prerequisites to play
 
 You would need the Edge web browser with the [**Immersive Web Emulator Plugin**](https://microsoftedge.microsoft.com/addons/detail/immersive-web-emulator/hhlkbhldhffpeibcfggfndbkfohndamj). 
 
-A Quest 2 can also be used to play the game in the web browser. (TODO: double check testing for this)
+A Quest 2 can also be used to play the game in the web browser.
 
 ### Instructions to play on the Edge web browser
 
@@ -50,7 +55,13 @@ Press the VR button and you're ready to play!
 
 ![VR button](readme_assets/images/vr_button_tut.png)
 
-Alternatively, connect your Quest 2 to your computer or laptop and play it on the browser! (TODO: again, double check testing for this)
+Alternatively, connect your Quest 2 to your computer or laptop and play it on the browser!
+
+## Known issues
+
+Currently, the WebXR export has an issue with openGL rendering where parts of the environment are not rendered. We have tested and checked that the items are still there to interact with. All interactables are still in the scene and working, just not appearing. If this happens for you please contact us for a .exe export of our game. The game is otherwise working fine for us on Unity.
+
+You may also refer to the video demo link above to get an idea of our game.
 
 ## How to play
 
@@ -169,3 +180,5 @@ DigiPen Metadigger library
 - Playtesting
 - Zombie interactions and logic
 - Zombie spawners
+
+#### Source control was handled using Plastic SCM
