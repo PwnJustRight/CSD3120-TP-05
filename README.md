@@ -59,9 +59,9 @@ Alternatively, connect your Quest 2 to your computer or laptop and play it on th
 
 ## Known issues
 
-Currently, the WebXR export has an issue with openGL rendering where parts of the environment are not rendered. We have tested and checked that the items are still there to interact with. All interactables are still in the scene and working, just not appearing. If this happens for you please contact us for a .exe export of our game. The game is otherwise working fine for us on Unity.
+Small visual glitch remains after crafting certain atoms.
 
-You may also refer to the video demo link above to get an idea of our game.
+You may also refer to the video demo link above to get a better idea of our game.
 
 ## How to play
 
@@ -121,9 +121,25 @@ The following molecules that can be created using the chalkboard are as follows:
 
 ## Scripts created for the game
 
-All scripts we've developed for this game are included in ```../Assets/Scripts```.
+All scripts we've developed for this game are included in ```../Unity/Assets/Scripts```.
 
 These scripts exclude those imported from VRTK and other packages.
+
+## Accessing source
+
+### Requirements to access our source
+- Unity Hub
+- Unity Version 2021.3.8f1 and above
+
+All working scenes created for the game are:
+```../Unity/Assets/Scenes/Gameplay.unity``` 
+
+and 
+
+```../Unity/Assets/Scenes/Gameplay2.unity```
+
+All models used in the game are located in:
+```../Unity/Assets/Models```
 
 ## Assets accreditation
 
