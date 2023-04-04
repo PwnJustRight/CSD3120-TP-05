@@ -6350,6 +6350,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1419515014}
     m_Modifications:
+    - target: {fileID: 3459980106867787624, guid: 33a804104a55fac4799a8582b2440c1a, type: 3}
+      propertyPath: m_CullingMask.m_Bits
+      value: 32761
+      objectReference: {fileID: 0}
+    - target: {fileID: 3460764703041704716, guid: 33a804104a55fac4799a8582b2440c1a, type: 3}
+      propertyPath: m_CullingMask.m_Bits
+      value: 32761
+      objectReference: {fileID: 0}
     - target: {fileID: 3480073220366545072, guid: 33a804104a55fac4799a8582b2440c1a, type: 3}
       propertyPath: m_Name
       value: WebXRCameraSet
